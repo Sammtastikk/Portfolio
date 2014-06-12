@@ -1,0 +1,50 @@
+img {
+	width:200px;
+	height:200px;
+}
+
+table, td {
+	border: 1px #70b8ff dashed;
+}
+
+.Home {
+	font-size:25px;
+	text-indent:75px;
+}
+
+.circleBase {
+    border-radius: 50%;
+    float:left;
+}
+
+.type1 {
+    width: 100px;
+    height: 100px;
+    background: yellow;
+    border: 3px solid yellow;
+} /*http://stackoverflow.com/questions/4840736/easier-way-to-create-circle-div-than-using-an-image */
+
+.clear {
+	clear:both;
+}
+
+.type2 {
+    width: 100px;
+    height: 100px;
+    background: purple;
+    border: 3px solid purple;
+} /*http://stackoverflow.com/questions/4840736/easier-way-to-create-circle-div-than-using-an-image */
+
+.type3 {
+    width: 100px;
+    height: 100px;
+    background: #009999;
+    border: 3px solid #009999;
+} /*http://stackoverflow.com/questions/4840736/easier-way-to-create-circle-div-than-using-an-image */
+
+.type4 {
+    width: 100px;
+    height: 100px;
+    background: #5CE6E6;
+    border: 3px solid #5CE6E6;
+} /*http://stackoverflow.com/questions/4840736/easier-way-to-create-circle-div-than-using-an-image */
